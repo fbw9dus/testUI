@@ -8,7 +8,9 @@ Projekt für Test im UI Modul
 - Die Seite soll auf dem Handy bzw. im DevTools-Simulator nicht kleiner skaliert/kleiner gezoomt werden.
 - Einrückung der Kinder-Elemente im Code
 - Korrekte Dateipfade
+- Beschreibende Klassen- oder ID-Namen für Elemente vergeben
 ## Anforderungen CSS
+- Selektoren so speizifisch schreiben, dass unabsichtliche Auswirkungen auf andere Teile der Seite vermieden werden.
 - Kein float zum Anordnen von Block-Elementen
 - Style-Werte, die sowieso standardmäßig vom Browser gesetzt werden, nicht im CSS deklarieren.
 
