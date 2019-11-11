@@ -18,3 +18,11 @@ Projekt für Test im UI Modul
 ![](drafts/tablet.JPG)
 ![](drafts/desktop.JPG)
 ![](drafts/desktop-button-hover.JPG)
+
+###   /60 Punkten
+#### Punktabzüge für:
+[ ] (15) Elemente passen sich nicht an Fensterbreite an
+[ ] (10) Tags nicht geschlossen oder falsch verschachtelt
+[ ] (10) Block-Tag in Inline-Tag
+[ ] (10) Kinder-Tags im Code nicht eingerückt
+[ ] (15) Zweckfremde Tags verwendet
