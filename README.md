@@ -21,8 +21,12 @@ Projekt für Test im UI Modul
 
 ###   __/60 Punkten
 #### Punktabzüge für:
-- [_] (15) Elemente passen sich nicht an Fensterbreite an
+- [_] (10) Elemente passen sich nicht an Fensterbreite an
 - [_] (10) Tags nicht geschlossen oder falsch verschachtelt
-- [_] (10) Block-Tag in Inline-Tag
-- [_] (10) Kinder-Tags im Code nicht eingerückt
-- [_] (15) Zweckfremde Tags verwendet
+- [_] (5) Block-Tag in Inline-Tag
+- [_] (5) Kinder-Tags im Code nicht eingerückt
+- [_] (10) Zweckfremde Tags verwendet
+- [_] (10) Fehlende essetielle Tags (z.B. Meta-Tags)
+- [_] (5) Falsche Datei-Pfade
+- [_] (10) CSS-Selektoren, die bei Änderungen im HTML sehr leicht fehlschlagen können
+- [_] (5) Fehlende essentielle Tag-Attribute
